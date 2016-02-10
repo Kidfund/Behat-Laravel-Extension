@@ -1,3 +1,12 @@
+# Community Updates
+
+This repo contains not-yet-official pull requests from the [community](https://github.com/laracasts/Behat-Laravel-Extension/pulls "community")
+
+- [#39](https://github.com/laracasts/Behat-Laravel-Extension/pull/39 "#39") Added support for Guzzle v6, psr-2 format, added gitignore
+- [#14](https://github.com/laracasts/Behat-Laravel-Extension/pull/14 "#14") Only reboot kernel if the context is kernel aware
+
+# Readme
+
 This extension offers an incredibly simple (and fast) way to begin testing and driving your Laravel applications with Behat. Some benefits include:
 
 - **Fast:** It doesn't depend on anything like Goutte, so it offers a super-fast way to test your UI. You don't even need to setup a host to run your tests.
